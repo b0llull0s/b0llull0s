@@ -14,4 +14,4 @@ On the long run<br>
   <img src="https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif?cid=ecf05e47e1cn19yly5vfccq2iy5dfp1yd96lza8348tku1lu&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="350"/>
 </p>
 
-![b0llull0s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b0llull0s&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact | with:500)
+![b0llull0s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b0llull0s&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact | width:500)
