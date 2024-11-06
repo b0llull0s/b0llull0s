@@ -1,4 +1,5 @@
-## P4n1c a7 th3 Bungal0w!!                                                                                                                          
+## P4n1c a7 th3 Bungal0w!!
+
  <p align="center">
   <img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif?cid=ecf05e4793s7ht3djiljru026pp33nx7mhvevccbbfej20u6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="700"/>
 </p>
@@ -16,6 +17,7 @@ On the long run<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0llull0s&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width=500/>
 </p>
+
 ```
 /\_/\ /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\  /\_/\ /\_/\ /\_/\ 
 ( o.o)( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o)(o.o )(o.o)
