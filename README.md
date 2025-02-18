@@ -29,7 +29,8 @@ Enjoy the breeze<br>
 Hold your hands<br>
 On the long run<br>    
   </strong>
-</p> 
+</p>
+
 ## About My Stack
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0llull0s&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=10" width=500/>
