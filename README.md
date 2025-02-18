@@ -33,4 +33,14 @@ On the long run<br>
 
 ## About My Stack
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=b0llull0s&show_icons=true&theme=midnight-purple&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0llull0s&hide_border=true&theme=midnight-purple&layout=compact&langs_count=10" />
+  <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
+    <tr>
+      <td style="border: none; margin: 0; padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=b0llull0s&show_icons=true&theme=midnight-purple&hide_border=true" style="display: block;" />
+      </td>
+      <td style="border: none; margin: 0; padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0llull0s&hide_border=true&theme=midnight-purple&layout=compact&langs_count=10" style="display: block;" />
+      </td>
+    </tr>
+  </table>
+</p>
