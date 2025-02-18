@@ -31,7 +31,7 @@ On the long run<br>
   </strong>
 </p>
 
-## About My Stack
+## Stack & Stats
 <p align="center">
   <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
     <tr>
