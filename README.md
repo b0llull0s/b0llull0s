@@ -18,7 +18,7 @@
  ( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )
   > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ < 
 ``` 
-##  Full-Stack Developer - DevOps - SysAdmin - Hacker - Artist - Chef
+##  Full-Stack - DevOps - SysAdmin - Machine-Learning - Cyber-Security
 <p align="center">
   <strong>
 Just breathe<br>
