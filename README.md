@@ -18,7 +18,7 @@
  ( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )
   > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ < 
 ``` 
-##  Full-Stack - DevOps - SysAdmin - Machine-Learning - Cyber-Security
+##                  Full-Stack - DevOps - SysAdmin - Machine-Learning - Cyber-Security
 <p align="center">
   <strong>
 Just breathe<br>
